@@ -1,0 +1,10 @@
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps\obj\Debug\VehicleAssembleSteps.Properties.Resources.resources
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps\obj\Debug\VehicleAssembleSteps.MainForm.resources
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps\obj\Debug\VehicleAssembleSteps.csproj.GenerateResource.cache
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps\obj\Debug\VehicleAssembleSteps.csproj.CoreCompileInputs.cache
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps\bin\Debug\VehicleAssembleSteps.exe.config
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps\bin\Debug\VehicleAssembleSteps.exe
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps\bin\Debug\VehicleAssembleSteps.pdb
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps\obj\Debug\VehicleAssembleSteps.exe
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps\obj\Debug\VehicleAssembleSteps.pdb
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps\obj\Debug\VehicleAssembleSteps.csprojAssemblyReference.cache

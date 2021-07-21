@@ -1,0 +1,17 @@
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\bin\Debug\VehicleAssembleSteps_TestCases.dll
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\bin\Debug\VehicleAssembleSteps_TestCases.pdb
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\bin\Debug\VehicleAssembleSteps.exe
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\bin\Debug\VehicleAssembleSteps.pdb
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\bin\Debug\VehicleAssembleSteps.exe.config
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\obj\Debug\VehicleAssembleSteps_TestCases.csprojAssemblyReference.cache
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\obj\Debug\VehicleAssembleSteps_TestCases.csproj.CoreCompileInputs.cache
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\obj\Debug\VehicleAssembleSteps_TestCases.csproj.CopyComplete
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\obj\Debug\VehicleAssembleSteps_TestCases.dll
+C:\Users\Naresh\source\repos\VehicleAssembleSteps\VehicleAssembleSteps_TestCases\obj\Debug\VehicleAssembleSteps_TestCases.pdb
